@@ -1,0 +1,23 @@
+"diff -u" allows for facilitative comparisons between files
+
+git - version control system
+
+commits - user created checkpoints
+
+"git log" to view commits (--stat for change statistics)
+
+"git diff" for comparing commits
+
+one commit per logical change
+
+manual commits > automated saving
+
+repository - commits with multiple files
+
+git allows for saving multiple files in one commit
+
+octopus - strategy git usees to combine many different version of code together
+
+head - what git calls the commit you are currently on
+
+git checkout - restoring to a previous version
